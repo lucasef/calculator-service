@@ -1,3 +1,2 @@
 teste1.txt
-b
-aaaa
+a
